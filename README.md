@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @deftrial
-- 👀 I’m interested in programming, digital drawing, and animations
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on <none>
-- 📫 How to reach me; alfarisi0147@gmail.com, @deftrial on IG
